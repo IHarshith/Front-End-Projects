@@ -1,0 +1,41 @@
+body{
+    margin:0;
+    display: flex;
+    background-color: blueviolet;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.cal-container{
+    background-color: white;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,.3);
+
+}
+
+.cal-month{
+    margin:0;
+    background-color: orangered;
+    padding:10px;
+    border-radius: 0 0 2px 2px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.cal-day{
+    font-size: 20px;
+    color: darkgray;
+}
+
+.cal-date{
+    font-size:80px;
+    margin:0;
+    font-weight: bold;
+}
+
+.cal-year{
+    color:darkgray;
+}
