@@ -82,12 +82,7 @@ body {
         text-shadow: 0 0 10px #ADD8E6, 0 0 20px #ADD8E6, 0 0 30px #ADD8E6, 0 0 40px #DC143C, 0 0 70px #DC143C, 0 0 80px #DC143C, 0 0 100px #DC143C, 0 0 150px #DC143C;
     }
   }
-  #icons {
-    size: 50%;
-    position: absolute;
-    bottom: 5%;
-  
-  }
+
   .dropdown {
     top: 1%;
     position: absolute;
